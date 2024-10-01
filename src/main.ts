@@ -21,7 +21,7 @@ async function bootstrap() {
     'message',
     JSON.stringify({
       message: 'no_sleep',
-      topic: 'my_topic',
+      topic: 'my_topic_2',
       data: 'some other data',
     }),
   );
